@@ -1,9 +1,9 @@
 <h1 align="center">Olá, sou Admardo Siqueira</h1>
 <h3 align="justify">Profissional de Tecnologia, dedicado ao estudo de Linguagens de Programação, do Sistema Operacional Linux e soluções Open Source, motivado, curioso, paciente, disposto a aceitar desafios e capaz de trabalhar em equipe de forma colaborativa</h3>
 
-- Atualmente atuando como Instrutor de TI no SENAC/RJ [https://www.rj.senac.br/unidades/senac-campos](https://www.rj.senac.br/unidades/senac-campos)
+- Atualmente atuando como Instrutor de TI no SENAC/RJ <a href="https://www.rj.senac.br/unidades/senac-campos">Unidade Campos</a>
 
-- Diarimente contribuindo com conteúdo para Página ADMS Informática [https://admsinformatica.wordpress.com/](https://admsinformatica.wordpress.com)
+- Diarimente contribuindo com conteúdo para Página <a href="https://admsinformatica.wordpress.com">ADMS Informática</a>
 
 - 📫 **admardosiqueira@outlook.com**
 
