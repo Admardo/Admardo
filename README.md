@@ -1,9 +1,15 @@
 <h1 align="center">Olá, sou Admardo Siqueira</h1>
-<h3 align="justify">Profissional de Tecnologia, dedicado ao estudo de Linguagens de Programação, do Sistema Operacional Linux e soluções Open Source, motivado, curioso, paciente, disposto a aceitar desafios e capaz de trabalhar em equipe de forma colaborativa</h3>
+<h4 align="justify">Profissional de Tecnologia, dedicado ao estudo de Linguagens de Programação, do Sistema Operacional Linux e soluções Open Source, motivado, curioso, paciente, pronto a aceitar desafios e buscar soluções, disposto a adaptar-se conforme necessidades e capaz de trabalhar em equipe de forma colaborativa e a</h4>
 
 - Atualmente atuando como Instrutor de TI no SENAC/RJ <a href="https://www.rj.senac.br/unidades/senac-campos">Unidade Campos</a>
 
 - Diarimente contribuindo com conteúdo para Página <a href="https://admsinformatica.wordpress.com">ADMS Informática</a>
+
+<h3 align="left">Missão</h3>
+<h4 align="justify">Desenvolver soluções de Software, eficientes e escaláveis, em todas as Linguagens de Programação, utilizando das boas práticas e padrões definidos pela Engenharia de Software, garantindo assim a qualidade e segurança</h4>
+
+<h3 align="left">Visão</h3>
+<h4 align="justify">Documentar e implementar, em cinco anos, a mesma Aplicação Desktop, Web e Mobile, utilizando dez Linguagens de Programação e diferentes Bancos de Dados, em Ambiente Linux, utilizando apenas recursos Open Source</h4>
 
 - 📫 **admardosiqueira@outlook.com**
 
