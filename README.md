@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou Admardo Siqueira</h1>
-<h4 align="justify">Profissional de Tecnologia, dedicado ao estudo de Linguagens de Programação, do Sistema Operacional Linux e soluções Open Source, motivado, curioso, paciente, pronto a aceitar desafios e buscar soluções, disposto a adaptar-se conforme necessidades e capaz de trabalhar em equipe de forma colaborativa e a</h4>
+<h4 align="justify">Profissional de Tecnologia, dedicado ao estudo de Linguagens de Programação, do Sistema Operacional Linux e soluções Open Source, motivado, curioso, paciente, pronto a aceitar desafios e buscar soluções, disposto a adaptar-se conforme necessidades e capaz de trabalhar em equipe de forma colaborativa</h4>
 
 - Atualmente atuando como Instrutor de TI no SENAC/RJ <a href="https://www.rj.senac.br/unidades/senac-campos">Unidade Campos</a>
 
